@@ -1,0 +1,29 @@
+[
+  {
+    "pk": 1,
+    "model": "sustentacionclase.preducts",
+    "fields": {
+      "name": "Update",
+      "description": "Update",
+      "active": true
+    }
+  },
+  {
+    "pk": 2,
+    "model": "sustentacionclase.preducts",
+    "fields": {
+      "name": "Update",
+      "description": "Update",
+      "active": true
+    }
+  },
+  {
+    "pk": 3,
+    "model": "sustentacionclase.preducts",
+    "fields": {
+      "name": "Update",
+      "description": "Update",
+      "active": true
+    }
+  }
+]
